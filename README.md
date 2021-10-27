@@ -1,1 +1,1 @@
-# python_exercise-numbers-strings
+# python_exercises
